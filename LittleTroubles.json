@@ -25,7 +25,13 @@
       "type",
       "cost"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "Test",
+        "gameplay": "Format for Testing!",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
