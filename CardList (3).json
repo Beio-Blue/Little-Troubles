@@ -1,0 +1,1857 @@
+{
+  "LT-001": {
+    "id": "LT-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"But it looked like so much fun!\"",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/2/2b/Lt1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"But it looked like so much fun!\"",
+    "type": "Action",
+    "cost": "6"
+  },
+  "LT-002": {
+    "id": "LT-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baby Needs A Playmate",
+        "type": "Quick Action",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/9/99/Lt2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baby Needs A Playmate",
+    "type": "Quick Action",
+    "cost": "8"
+  },
+  "LT-003": {
+    "id": "LT-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Double Trouble",
+        "type": "Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/6/6c/Lt3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Double Trouble",
+    "type": "Action",
+    "cost": "7"
+  },
+  "LT-004": {
+    "id": "LT-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"...but at what cost?\"",
+        "type": "Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/c/c4/Lt4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"...but at what cost?\"",
+    "type": "Action",
+    "cost": "7"
+  },
+  "LT-005": {
+    "id": "LT-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "AR Virus",
+        "type": "Action",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/4/43/Lt5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "AR Virus",
+    "type": "Action",
+    "cost": "10"
+  },
+  "LT-006": {
+    "id": "LT-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Split the Difference",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/6/63/Lt6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Split the Difference",
+    "type": "Action",
+    "cost": "6"
+  },
+  "LT-007": {
+    "id": "LT-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Didn't Go As Planned",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/9/99/Lt7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Didn't Go As Planned",
+    "type": "Action",
+    "cost": "6"
+  },
+  "LT-008": {
+    "id": "LT-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"Anyone got some spare clothes?\"",
+        "type": "Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/a/a3/Lt8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Anyone got some spare clothes?\"",
+    "type": "Action",
+    "cost": "7"
+  },
+  "LT-009": {
+    "id": "LT-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Temporary Truce",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/2/2a/Lt9.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Temporary Truce",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-010": {
+    "id": "LT-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miracle Cure",
+        "type": "Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/8/89/Lt10.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miracle Cure",
+    "type": "Action",
+    "cost": "7"
+  },
+  "LT-011": {
+    "id": "LT-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Field Trip",
+        "type": "Action",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/f/f3/Lt11.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Field Trip",
+    "type": "Action",
+    "cost": "10"
+  },
+  "LT-012": {
+    "id": "LT-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Make a New Friend",
+        "type": "Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/0/07/Lt12.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Make a New Friend",
+    "type": "Action",
+    "cost": "7"
+  },
+  "LT-013": {
+    "id": "LT-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"Do you remember when...\"",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/0/03/Lt13.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Do you remember when...\"",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-014": {
+    "id": "LT-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paint On The Ceiling",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/b/b5/Lt14.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paint On The Ceiling",
+    "type": "Action",
+    "cost": "6"
+  },
+  "LT-015": {
+    "id": "LT-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Throwing out the old(ish) crib",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/6/60/Lt15.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Throwing out the old(ish) crib",
+    "type": "Action",
+    "cost": "6"
+  },
+  "LT-016": {
+    "id": "LT-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shortcut Short Circuit",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/f/f0/Lt16.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shortcut Short Circuit",
+    "type": "Action",
+    "cost": "6"
+  },
+  "LT-017": {
+    "id": "LT-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hazmat Zone",
+        "type": "Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/6/6d/Lt17.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hazmat Zone",
+    "type": "Action",
+    "cost": "7"
+  },
+  "LT-018": {
+    "id": "LT-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Photo From The Photo Album",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/a/ab/Lt18.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Photo From The Photo Album",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-019": {
+    "id": "LT-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reunited!",
+        "type": "Quick Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/7/76/Lt19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reunited!",
+    "type": "Quick Action",
+    "cost": "5"
+  },
+  "LT-020": {
+    "id": "LT-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"You wanna bet?!\"",
+        "type": "Action",
+        "cost": "0",
+        "image": "https://littletroubles.wiki/images/2/2c/Lt20.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"You wanna bet?!\"",
+    "type": "Action",
+    "cost": 0
+  },
+  "LT-021": {
+    "id": "LT-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"Corner, Now!\"",
+        "type": "Quick Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/a/ab/Lt21.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Corner, Now!\"",
+    "type": "Quick Action",
+    "cost": "7"
+  },
+  "LT-022": {
+    "id": "LT-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naptime",
+        "type": "Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/a/a3/Lt22.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naptime",
+    "type": "Action",
+    "cost": "7"
+  },
+  "LT-023": {
+    "id": "LT-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mute Button",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/f/f1/Lt23.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mute Button",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-024": {
+    "id": "LT-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Tall Shelf",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/f/f8/Lt24.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Tall Shelf",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-025": {
+    "id": "LT-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"Break it up!\"",
+        "type": "Quick Action",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/5/5c/Lt25.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Break it up!\"",
+    "type": "Quick Action",
+    "cost": "8"
+  },
+  "LT-026": {
+    "id": "LT-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"Told ya so!\"",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://littletroubles.wiki/images/1/12/Lt26.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Told ya so!\"",
+    "type": "Action",
+    "cost": "3"
+  },
+  "LT-027": {
+    "id": "LT-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"To the victor...\"",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://littletroubles.wiki/images/e/eb/Lt27.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"To the victor...\"",
+    "type": "Action",
+    "cost": "3"
+  },
+  "LT-028": {
+    "id": "LT-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"...go the spoils.\"",
+        "type": "Action",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/5/5f/Lt28.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"...go the spoils.\"",
+    "type": "Action",
+    "cost": "4"
+  },
+  "LT-029": {
+    "id": "LT-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Huffy Glare",
+        "type": "Quick Action",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/e/e1/Lt29.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Huffy Glare",
+    "type": "Quick Action",
+    "cost": "4"
+  },
+  "LT-030": {
+    "id": "LT-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"I Want It Now!\"",
+        "type": "Quick Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/6/62/Lt30.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"I Want It Now!\"",
+    "type": "Quick Action",
+    "cost": "6"
+  },
+  "LT-031": {
+    "id": "LT-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Full-On Tantrum",
+        "type": "Decisive Quick Action",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/3/33/Lt31.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Full-On Tantrum",
+    "type": "Decisive Quick Action",
+    "cost": "4"
+  },
+  "LT-032": {
+    "id": "LT-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bike Helmet",
+        "type": "Quick Action",
+        "cost": "3",
+        "image": "https://littletroubles.wiki/images/1/16/Lt32.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bike Helmet",
+    "type": "Quick Action",
+    "cost": "3"
+  },
+  "LT-033": {
+    "id": "LT-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Cool Stick",
+        "type": "Quick Action",
+        "cost": "3",
+        "image": "https://littletroubles.wiki/images/4/46/Lt33.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Cool Stick",
+    "type": "Quick Action",
+    "cost": "3"
+  },
+  "LT-034": {
+    "id": "LT-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Coolest Stick",
+        "type": "Quick Action",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/b/b7/Lt34.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Coolest Stick",
+    "type": "Quick Action",
+    "cost": "4"
+  },
+  "LT-035": {
+    "id": "LT-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teddy Bear Shield",
+        "type": "Quick Action",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/d/d0/Lt35.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teddy Bear Shield",
+    "type": "Quick Action",
+    "cost": "4"
+  },
+  "LT-036": {
+    "id": "LT-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Distracted By Shinies",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://littletroubles.wiki/images/d/d5/Lt36.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Distracted By Shinies",
+    "type": "Action",
+    "cost": "2"
+  },
+  "LT-037": {
+    "id": "LT-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sticky Paws",
+        "type": "Quick Action",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/1/18/Lt37.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sticky Paws",
+    "type": "Quick Action",
+    "cost": "4"
+  },
+  "LT-038": {
+    "id": "LT-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mittens From Nowhere",
+        "type": "Quick Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/4/4e/Lt38.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mittens From Nowhere",
+    "type": false,
+    "cost": 0
+  },
+  "LT-039": {
+    "id": "LT-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Distracting Melody",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/8/89/Lt39.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Distracting Melody",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-040": {
+    "id": "LT-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Busted!",
+        "type": "Action",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/d/d5/Lt40.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Busted!",
+    "type": "Action",
+    "cost": "10"
+  },
+  "LT-041": {
+    "id": "LT-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Level The Playing Field",
+        "type": "Quick Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/d/d5/Lt41.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Level The Playing Field",
+    "type": "Quick Action",
+    "cost": "6"
+  },
+  "": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Teddy Wants a Word",
+        "type": "Quick Action",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/b/b5/Lt42.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Teddy Wants a Word",
+    "type": "Quick Action",
+    "cost": "8"
+  },
+  "LT-043": {
+    "id": "LT-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Shiny Rock",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://littletroubles.wiki/images/c/c6/Lt43.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Shiny Rock",
+    "type": "Action",
+    "cost": 0
+  },
+  "LT-044": {
+    "id": "LT-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Your Mom's Attic",
+        "type": "Field",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/0/0e/Lt44.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Your Mom's Attic",
+    "type": "Field",
+    "cost": "5"
+  },
+  "LT-045": {
+    "id": "LT-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Toy Store",
+        "type": "Field",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/e/e1/Lt45.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Toy Store",
+    "type": "Field",
+    "cost": "7"
+  },
+  "LT-046": {
+    "id": "LT-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Forest",
+        "type": "Field",
+        "cost": "3",
+        "image": "https://littletroubles.wiki/images/a/ad/Lt46.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Forest",
+    "type": "Field",
+    "cost": "3"
+  },
+  "LT-047": {
+    "id": "LT-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Children's Author",
+        "type": "Character",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/c/cb/Lt47.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Active Imagination",
+        "type": "Character",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/7/7d/Lt47b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Children's Author // Active Imagination",
+    "type": "Character",
+    "cost": "7"
+  },
+  "LT-048": {
+    "id": "LT-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Playground",
+        "type": "Field",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/b/bd/Lt48.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Playground",
+    "type": "Field",
+    "cost": "4"
+  },
+  "LT-049": {
+    "id": "LT-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grade School",
+        "type": "Field",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/9/9b/Lt49.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grade School",
+    "type": "Field",
+    "cost": "4"
+  },
+  "LT-050": {
+    "id": "LT-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Diaper Aisle",
+        "type": "Field",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/8/88/Lt50.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Diaper Aisle",
+    "type": "Field",
+    "cost": "5"
+  },
+  "LT-051": {
+    "id": "LT-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Library",
+        "type": "Field",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/3/3c/Lt51.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Library",
+    "type": "Field",
+    "cost": "6"
+  },
+  "LT-052": {
+    "id": "LT-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Secret Lab",
+        "type": "Field",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/4/49/Lt52.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Secret Lab",
+    "type": "Field",
+    "cost": "5"
+  },
+  "LT-053": {
+    "id": "LT-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "(Behind) The Couch",
+        "type": "Field",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/6/67/Lt53.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "(Behind) The Couch",
+    "type": "Field",
+    "cost": "7"
+  },
+  "LT-054": {
+    "id": "LT-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Suit Tailor",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/a/a4/Lt54.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Seam Ripper",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/d/d1/Lt54b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Suit Tailor // Seam Ripper",
+    "type": "Character",
+    "cost": "4"
+  },
+  "LT-055": {
+    "id": "LT-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Bakery",
+        "type": "Field",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/5/55/Lt55.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Bakery",
+    "type": "Field",
+    "cost": "7"
+  },
+  "LT-056": {
+    "id": "LT-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bus Stop",
+        "type": "Field",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/f/f3/Lt57.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bus Stop",
+    "type": "Field",
+    "cost": "5"
+  },
+  "LT-057": {
+    "id": "LT-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Day Care",
+        "type": "Field",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/f/f3/Lt57.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Day Care",
+    "type": "Field",
+    "cost": "5"
+  },
+  "LT-058": {
+    "id": "LT-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Fountain",
+        "type": "Iconic Field",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/e/e7/Lt58.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Fountain",
+    "type": "Iconic Field",
+    "cost": "10"
+  },
+  "LT-059": {
+    "id": "LT-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Suspicious Looking Teddy Bear",
+        "type": "Character",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/7/71/Lt59.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Suspicious Looking Teddy Bear",
+    "type": "Character",
+    "cost": "7"
+  },
+  "LT-60": {
+    "id": "LT-60",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conveyor Belt Arms",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/0/02/Lt60.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conveyor Belt Arms",
+    "type": "Character",
+    "cost": "6"
+  },
+  "LT-061": {
+    "id": "LT-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diaper Genie",
+        "type": "Character",
+        "cost": "11",
+        "image": "https://littletroubles.wiki/images/9/9f/Lt61.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diaper Genie",
+    "type": "Character",
+    "cost": "11"
+  },
+  "LT-062": {
+    "id": "LT-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ghost Hands",
+        "type": "Character",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/9/91/Lt62.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ghost Hands",
+    "type": "Character",
+    "cost": "10"
+  },
+  "LT-063": {
+    "id": "LT-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cursed Doll",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/b/b2/Lt63.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cursed Doll",
+    "type": "Character",
+    "cost": "8"
+  },
+  "LT-064": {
+    "id": "LT-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ryan, The Babysitter",
+        "type": "Main Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/b/b9/Lt64.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ryan, The Baby",
+        "type": "Main Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/2/25/Lt64b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Ryan, The Babysitter\" // \"Ryan, The Baby\"",
+    "type": "Main Character",
+    "cost": "8"
+  },
+  "LT-065": {
+    "id": "LT-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strong-and-Independent College Student",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/1/1f/Lt65.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Momma's Boy",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/f/ff/Lt65b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strong-and-Independent College Student // Momma's Boy",
+    "type": "Character",
+    "cost": "5"
+  },
+  "LT-066": {
+    "id": "LT-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Business Tycoon",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/7/73/Lt66.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Lemonade Stand Owner",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/e/e9/Lt66b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Business Tycoon // Lemonade Stand Owner",
+    "type": "Character",
+    "cost": "5"
+  },
+  "LT-067": {
+    "id": "LT-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Experienced Gardener",
+        "type": "Character",
+        "cost": "9",
+        "image": "https://littletroubles.wiki/images/0/0e/Lt67.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Living Mud Puddle",
+        "type": "Character",
+        "cost": "9",
+        "image": "https://littletroubles.wiki/images/e/ed/Lt67b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Experienced Gardener // Living Mud Puddle",
+    "type": "Character",
+    "cost": "9"
+  },
+  "LT-068": {
+    "id": "LT-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "1000 IQ Genius",
+        "type": "Character",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/3/3e/Lt68.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Toe Muncher",
+        "type": "Character",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/6/6b/Lt68b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "1000 IQ Genius // Toe Muncher",
+    "type": "Character",
+    "cost": "10"
+  },
+  "LT-069": {
+    "id": "LT-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Food Critic",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/2/24/Lt69.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Messy Eater",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/9/98/Lt69b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Food Critic // Messy Eater",
+    "type": "Character",
+    "cost": "8"
+  },
+  "LT-070": {
+    "id": "LT-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tenured Professor",
+        "type": "Character",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/c/c6/Lt70.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "First Grader",
+        "type": "Character",
+        "cost": "10",
+        "image": "https://littletroubles.wiki/images/d/de/Lt70b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tenured Professor // First Grader",
+    "type": "Character",
+    "cost": "10"
+  },
+  "LT-071": {
+    "id": "LT-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daycare Attendant",
+        "type": "Character",
+        "cost": "9",
+        "image": "https://littletroubles.wiki/images/b/b9/Lt71.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "The New Kid",
+        "type": "Character",
+        "cost": "9",
+        "image": "https://littletroubles.wiki/images/9/9e/Lt71b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daycare Attendant // The New Kid",
+    "type": "Character",
+    "cost": "9"
+  },
+  "LT-072": {
+    "id": "LT-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cat Burglar",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/d/d9/Lt72.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Cookie Thief",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/7/7c/Lt72b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cat Burglar // Cookie Thief",
+    "type": "Character",
+    "cost": "6"
+  },
+  "LT-073": {
+    "id": "LT-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caffeine Addict",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/4/4c/Lt73.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Fast Asleep",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/0/0e/Lt73b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caffeine Addict // Fast Asleep",
+    "type": "Character",
+    "cost": "6"
+  },
+  "LT-074": {
+    "id": "LT-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lifeguard",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/e/e2/Lt74.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Buoyant Bab",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/5/51/Lt74b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lifeguard // Buoyant Bab",
+    "type": "Character",
+    "cost": "6"
+  },
+  "LT-075": {
+    "id": "LT-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Coach",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/9/90/Lt75.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Perpetual Potty-Trainer",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/9/9e/Lt75b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Life Coach // Perpetual Potty-Trainer",
+    "type": "Character",
+    "cost": "6"
+  },
+  "LT-076": {
+    "id": "LT-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daredevil",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/4/40/Lt76.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Scaredy-Cat",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/4/40/Lt76b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daredevil // Scaredy-Cat",
+    "type": "Character",
+    "cost": "8"
+  },
+  "LT-077": {
+    "id": "LT-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Professional Model",
+        "type": "Character",
+        "cost": "13",
+        "image": "https://littletroubles.wiki/images/0/07/Lt77.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Professional Model",
+        "type": "Character",
+        "cost": "13",
+        "image": "https://littletroubles.wiki/images/2/23/Lt77b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Professional Model",
+    "type": "Character",
+    "cost": "13"
+  },
+  "LT-078": {
+    "id": "LT-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baseball Star",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/a/a0/Lt78.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Little Leaguer",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/9/97/Lt78b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baseball Star // Little Leaguer",
+    "type": "Character",
+    "cost": "8"
+  },
+  "LT-079": {
+    "id": "LT-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Archaeologist",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/e/e5/Lt79.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Sandbox Pirate",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/d/d1/Lt79b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Archaeologist // Sandbox Pirate",
+    "type": "Character",
+    "cost": "8"
+  },
+  "LT-080": {
+    "id": "LT-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Park Ranger",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/2/28/Lt80.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Acorn Scout",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/7/7f/Lt80b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Park Ranger // Acorn Scout",
+    "type": "Character",
+    "cost": "8"
+  },
+  "LT-081": {
+    "id": "LT-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skeptical Onlooker",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/e/e8/Lt81.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Collateral Crinkling",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/e/e5/Lt81b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skeptical Onlooker // Collateral Crinkling",
+    "type": "Character",
+    "cost": "5"
+  },
+  "LT-082": {
+    "id": "LT-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sunset Surfer",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/d/d4/Lt82.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Boogie Board Baby",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/5/58/Lt82b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sunset Surfer // Boogie Board Baby",
+    "type": "Character",
+    "cost": "4"
+  },
+  "LT-083": {
+    "id": "LT-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Proud Papa",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/b/bf/Lt83.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Baby Brother",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/1/18/Lt83b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Proud Papa // Baby Brother",
+    "type": "Character",
+    "cost": "5"
+  },
+  "LT-084": {
+    "id": "LT-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Model Mom",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/c/ce/Lt84.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Shrunk Sis",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/4/46/Lt84b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Model Mom // Shrunk Sis",
+    "type": "Character",
+    "cost": "5"
+  },
+  "LT-085": {
+    "id": "LT-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moving Out",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/6/68/Lt85.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Moving In",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/c/c6/Lt85b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moving Out // Moving In",
+    "type": "Character",
+    "cost": "5"
+  },
+  "LT-086": {
+    "id": "LT-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Dull Rock",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://littletroubles.wiki/images/d/d6/Lt86.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Dull Rock",
+    "type": "Action",
+    "cost": 0
+  },
+  "LT-087": {
+    "id": "LT-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Sticky Rock",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://littletroubles.wiki/images/0/05/Lt87.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Sticky Rock",
+    "type": "Action",
+    "cost": 0
+  },
+  "LT-088": {
+    "id": "LT-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Smelly Rock",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://littletroubles.wiki/images/a/ab/Lt88.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Smelly Rock",
+    "type": "Action",
+    "cost": 0
+  },
+  "LT-089": {
+    "id": "LT-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stuck Playing Babysitter",
+        "type": "Quick Action",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/8/8c/Lt89.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stuck Playing Babysitter",
+    "type": "Quick Action",
+    "cost": "7"
+  },
+  "LT-090": {
+    "id": "LT-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Life Imitating Art",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/1/16/Lt90.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Life Imitating Art",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-091": {
+    "id": "LT-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Back Pocket",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://littletroubles.wiki/images/d/d2/Lt91.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Back Pocket",
+    "type": "Action",
+    "cost": "3"
+  },
+  "LT-092": {
+    "id": "LT-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Starting Fresh",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/a/a2/Lt92.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Starting Fresh",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-093": {
+    "id": "LT-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Little Too Real",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/d/d4/Lt93.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Little Too Real",
+    "type": "Action",
+    "cost": "6"
+  },
+  "LT-094": {
+    "id": "LT-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Appropriate Grade Level",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://littletroubles.wiki/images/a/a9/Lt94.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Appropriate Grade Level",
+    "type": "Action",
+    "cost": "3"
+  },
+  "LT-095": {
+    "id": "LT-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sitter Swap",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/e/e9/Lt95.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sitter Swap",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-096": {
+    "id": "LT-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"You'll Need This More Than Me\"",
+        "type": "Action",
+        "cost": "8",
+        "image": "https://littletroubles.wiki/images/2/29/Lt96.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"You'll Need This More Than Me\"",
+    "type": "Action",
+    "cost": "8"
+  },
+  "LT-097": {
+    "id": "LT-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wardrobe Issues",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/4/4e/Lt97.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wardrobe Issues",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-098": {
+    "id": "LT-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "\"Who'd Believe a Little Kid?\"",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/f/fe/Lt98.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Who'd Believe a Little Kid?\"",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-099": {
+    "id": "LT-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "One Less Thing to Worry About",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/d/d4/Lt99.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "One Less Thing to Worry About",
+    "type": "Action",
+    "cost": "5"
+  },
+  "LT-100": {
+    "id": "LT-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Someone's a Little Tired",
+        "type": "Action",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/0/09/Lt100.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Someone's a Little Tired",
+    "type": "Action",
+    "cost": "4"
+  },
+  "LT-101": {
+    "id": "LT-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roll The Dice",
+        "type": "Quick Action",
+        "cost": "4",
+        "image": "https://littletroubles.wiki/images/7/7b/Lt101.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roll The Dice",
+    "type": "Quick Action",
+    "cost": "4"
+  },
+  "LT-102": {
+    "id": "LT-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Play The Odds",
+        "type": "Quick Action",
+        "cost": "5",
+        "image": "https://littletroubles.wiki/images/2/28/Lt102.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Play The Odds",
+    "type": "Quick Action",
+    "cost": "5"
+  },
+  "LT-103": {
+    "id": "LT-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mutually Assured Regression",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://littletroubles.wiki/images/4/48/Lt103.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mutually Assured Regression",
+    "type": "Action",
+    "cost": "6"
+  },
+  "LT-104": {
+    "id": "LT-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Damsel In Distress",
+        "type": "Character",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/6/62/Lt104.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Damsel In Diapers",
+        "type": "Character",
+        "cost": "7",
+        "image": "https://littletroubles.wiki/images/2/2e/Lt104b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Damsel In Distress // Damsel In Diapers",
+    "type": "Character",
+    "cost": "7"
+  },
+  "LT-105": {
+    "id": "LT-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tattletale",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://littletroubles.wiki/images/d/d1/Lt105.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tattletale",
+    "type": "Action",
+    "cost": 0
+  }
+}
