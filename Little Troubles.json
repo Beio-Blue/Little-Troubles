@@ -1,0 +1,181 @@
+{
+  "name": "Little Troubles",
+  "menuBackgroundImage": "https://cdn.bsky.app/img/banner/plain/did:plc:z6dkqznqqd36opaelnwc4qqv/bafkreibp2vuozvql6vkm3tlj5nhltj7wb7um54ebtk4iffigcsnh5ejole@jpeg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://littletroubles.wiki/images/0/09/Mat-Set3-Adventurer-Art.png",
+      "https://littletroubles.wiki/images/5/57/Mat-Set3-Cardboard-Art.png",
+      "https://littletroubles.wiki/images/2/23/Mat-Set3-Blessing-Art.png",
+      "https://littletroubles.wiki/images/b/b8/Mat-Set3-Rescue-Art.png",
+      "https://littletroubles.wiki/images/3/39/Mat-Set3-Slime-Art.png",
+      "https://littletroubles.wiki/images/d/d9/Mat-Set3-Snack-Art.png",
+      "https://littletroubles.wiki/images/5/54/Mat-Set3-Wess-Art.png"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://beio-blue.github.io/Little-Troubles/LTCardList.json",
+    "cardBack": "https://littletroubles.wiki/images/9/90/Sleeves-Set1-Classic.jpg"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type",
+      "cost"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Draw 10 cards, then return 4 to the deck!",
+        "startingHandSize": "10",
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "0"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "2"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "C/T",
+          "Field",
+          "Goal"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "Field",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "C/T",
+                  "style": false
+                },
+                {
+                  "section": "Goal",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "C/T": {
+            "title": "New_Section",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Field": {
+            "title": "Field",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Goal": {
+            "title": "Goal",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
