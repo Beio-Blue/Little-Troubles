@@ -604,8 +604,8 @@
       }
     },
     "name": "Mittens From Nowhere",
-    "type": "Quick Action",
-    "cost": "5"
+    "type": false,
+    "cost": 0
   },
   "LT-039": {
     "id": "LT-039",
@@ -655,7 +655,7 @@
     "type": "Quick Action",
     "cost": "6"
   },
-  "": {
+  "LT-042": {
     "id": "",
     "isToken": false,
     "face": {
