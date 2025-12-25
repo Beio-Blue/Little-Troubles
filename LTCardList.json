@@ -901,7 +901,7 @@
         "name": "Bus Stop",
         "type": "Field",
         "cost": "5",
-        "image": "https://littletroubles.wiki/images/f/f3/Lt57.png",
+        "image": "https://littletroubles.wiki/images/7/75/Lt56.png",
         "isHorizontal": false
       }
     },
@@ -914,14 +914,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Day Care",
+        "name": "Daycare",
         "type": "Field",
         "cost": "5",
         "image": "https://littletroubles.wiki/images/f/f3/Lt57.png",
         "isHorizontal": false
       }
     },
-    "name": "Day Care",
+    "name": "Daycare",
     "type": "Field",
     "cost": "5"
   },
