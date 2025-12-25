@@ -49,7 +49,14 @@
         "drawPerTurn": "0"
       },
       "defaultNotes": "",
-      "tokens": [],
+      "tokens": [
+        {
+          "name": "Token",
+          "image": "https://littletroubles.wiki/images/d/d5/Cookie_Icon.png",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        }
+      ],
       "countersStartingValues": [
         "30",
         "0"
