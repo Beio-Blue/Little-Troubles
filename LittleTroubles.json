@@ -51,12 +51,22 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "2"
+        "30",
+        "0"
       ],
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "C/T",
+          "C/T_1",
+          "C/T_2",
+          "C/T_3",
+          "C/T_4",
+          "C/T_5",
+          "C/T_6",
+          "C/T_7",
+          "C/T_8",
+          "C/T_9",
+          "C/T_10",
           "Field",
           "Goal"
         ],
@@ -69,23 +79,23 @@
               "style": false,
               "content": [
                 {
-                  "section": "C/T",
+                  "section": "C/T_1",
                   "style": false
                 },
                 {
-                  "section": "C/T",
+                  "section": "C/T_2",
                   "style": false
                 },
                 {
-                  "section": "C/T",
+                  "section": "C/T_3",
                   "style": false
                 },
                 {
-                  "section": "C/T",
+                  "section": "C/T_4",
                   "style": false
                 },
                 {
-                  "section": "C/T",
+                  "section": "C/T_5",
                   "style": false
                 },
                 {
@@ -100,23 +110,23 @@
               "style": false,
               "content": [
                 {
-                  "section": "C/T",
+                  "section": "C/T_6",
                   "style": false
                 },
                 {
-                  "section": "C/T",
+                  "section": "C/T_7",
                   "style": false
                 },
                 {
-                  "section": "C/T",
+                  "section": "C/T_8",
                   "style": false
                 },
                 {
-                  "section": "C/T",
+                  "section": "C/T_9",
                   "style": false
                 },
                 {
-                  "section": "C/T",
+                  "section": "C/T_10",
                   "style": false
                 },
                 {
@@ -132,22 +142,6 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "C/T": {
-            "title": "New_Section",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Field": {
             "title": "Field",
             "isHidden": "no",
@@ -166,6 +160,166 @@
           },
           "Goal": {
             "title": "Goal",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_1": {
+            "title": "C/T_1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_2": {
+            "title": "C/T_2",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_3": {
+            "title": "C/T_3",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_4": {
+            "title": "C/T_4",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_5": {
+            "title": "C/T_5",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_6": {
+            "title": "C/T_6",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_7": {
+            "title": "C/T_7",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_8": {
+            "title": "C/T_8",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_9": {
+            "title": "C/T_9",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "C/T_10": {
+            "title": "C/T_10",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
